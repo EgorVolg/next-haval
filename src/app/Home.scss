@@ -1,0 +1,35 @@
+$blue-bg-color: #010c13;
+
+.home {
+  display: block;
+  height: 917px;
+  padding: 5% 11.4%;
+  color: $blue-bg-color;
+}
+.home__main {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-template-rows: 0.1fr 0.9fr;
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  padding: 1.68% 0;
+}
+
+.home__nav {
+  border-bottom: 2px solid #9aa7ad;
+  padding: 20px 0;
+  height: auto;
+  h1 {
+    padding: 10px 0;
+  }
+}
+
+.home__car-list {
+  width: 922px;
+  height: auto ;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  grid-column-gap: 10px;
+}

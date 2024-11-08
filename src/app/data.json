@@ -1,0 +1,18 @@
+{
+    "brands": ["Chery", "Haval", "Geely", "Exeed", "Omoda", "Changan", "Jaecoo"],
+    "capacity": ["1.5", "1.6", "2.0"],
+    "equipment": [
+      "Action",
+      "TechnoTravel",
+      "Luxury",
+      "Cosmo",
+      "Trek",
+      "Comfort",
+      "Family",
+      "Prestige",
+      "Elite",
+      "Dreamline",
+      "Speedline",
+      "Ultimate"
+    ]
+  }
